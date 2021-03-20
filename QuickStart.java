@@ -6,6 +6,7 @@ public class QuickStart {
         int a = input.nextInt();
         int b = input.nextInt();
         System.out.println(a + b);
+
+        input.close();
     }
-    /// Kiron
 }
